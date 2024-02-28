@@ -1,0 +1,14 @@
+C:\Users\Taleh\source\repos\ExpressCash\ExpressCash\obj\Debug\net8.0\ExpressCash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taleh\source\repos\ExpressCash\ExpressCash\obj\Debug\net8.0\ExpressCash.AssemblyInfoInputs.cache
+C:\Users\Taleh\source\repos\ExpressCash\ExpressCash\obj\Debug\net8.0\ExpressCash.AssemblyInfo.cs
+C:\Users\Taleh\source\repos\ExpressCash\ExpressCash\obj\Debug\net8.0\ExpressCash.csproj.CoreCompileInputs.cache
+C:\Users\Taleh\source\repos\ExpressCash\ExpressCash\bin\Debug\net8.0\ExpressCash.exe
+C:\Users\Taleh\source\repos\ExpressCash\ExpressCash\bin\Debug\net8.0\ExpressCash.deps.json
+C:\Users\Taleh\source\repos\ExpressCash\ExpressCash\bin\Debug\net8.0\ExpressCash.runtimeconfig.json
+C:\Users\Taleh\source\repos\ExpressCash\ExpressCash\bin\Debug\net8.0\ExpressCash.dll
+C:\Users\Taleh\source\repos\ExpressCash\ExpressCash\bin\Debug\net8.0\ExpressCash.pdb
+C:\Users\Taleh\source\repos\ExpressCash\ExpressCash\obj\Debug\net8.0\ExpressCash.dll
+C:\Users\Taleh\source\repos\ExpressCash\ExpressCash\obj\Debug\net8.0\refint\ExpressCash.dll
+C:\Users\Taleh\source\repos\ExpressCash\ExpressCash\obj\Debug\net8.0\ExpressCash.pdb
+C:\Users\Taleh\source\repos\ExpressCash\ExpressCash\obj\Debug\net8.0\ExpressCash.genruntimeconfig.cache
+C:\Users\Taleh\source\repos\ExpressCash\ExpressCash\obj\Debug\net8.0\ref\ExpressCash.dll
